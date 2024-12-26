@@ -64,6 +64,22 @@ Contains image assets, such as `Me.jpg`, which is likely a profile picture.
 To personalize this portfolio:
 
 1. Replace `Me.jpg` with your own profile picture.
-2. Update `index.html` with your details (name, skills, projects, contact information).
+2. Update `index.html` with your details (name, skills, proje![S1]
+cts, contact information).
 3. Modify `Swagat Gharat.pdf` to reflect your resume or credentials.
 4. Adjust `style.css` for custom styling preferences.
+
+## DEMO:
+![S1](https://github.com/user-attachments/assets/f2da1402-920c-4871-acba-9dfb63f3c25e)
+
+
+![S2](https://github.com/user-attachments/assets/31bb0b21-936f-45fb-b25e-fc4568207801)
+
+
+![S3](https://github.com/user-attachments/assets/e6f68581-83ba-47ce-8166-f346f7b91f4b)
+
+
+![S4](https://github.com/user-attachments/assets/b10055a6-9ea8-4246-b810-4847410cabb4)
+
+
+![S5](https://github.com/user-attachments/assets/51610d65-2251-45d9-9f35-3a6a645e1712)
